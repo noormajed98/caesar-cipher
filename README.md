@@ -8,3 +8,6 @@ enter number in the key text
 press button encrypt for encryption
 and re write the encryption text in te 3rd textbox
 press decrypt to فك الشفرة 
+
+#License
+This project under GNU license
